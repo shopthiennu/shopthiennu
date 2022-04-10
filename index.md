@@ -2,7 +2,7 @@
 
 ### BÁN BẠC GAME THIỆN NỮ 2 - VNG
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQUpgpBpu1XOGzuWzz65rILbokaJoXpBiJF8pDTf0JEGLnlyuPhVICj_vdvvwb0gEuYJzKnBH-fIBxF/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQUpgpBpu1XOGzuWzz65rILbokaJoXpBiJF8pDTf0JEGLnlyuPhVICj_vdvvwb0gEuYJzKnBH-fIBxF/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500"></iframe>
 
 ### Bán tài khoản zing trắng SLL
 
